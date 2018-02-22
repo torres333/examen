@@ -4,9 +4,9 @@
     <question id="p01">
         <type>radio</type>
         <title>
-            1.- ¿Qué montaña es la mas alta de Mallorca?
+            1.- ¿Qué montaña ---------------es la mas alta de Mallorca?
         </title>
-        <option>a)Puig de l'Ofre</option>
+        <option>a)Puig de lOfre</option>
         <option>b)Puig de ses Bassetes</option>
         <option>c)Massanella</option>
         <option>d)Puig Major</option>
@@ -15,14 +15,14 @@
     <question id="p02">
         <type>text</type>
         <title>
-            2.- ¿Es verdad que en España viven más de 45 millones de personas?
+            2.- ¿Es verdad ---------que en España viven más de 45 millones de personas?
         </title>
         <answer>Si</answer>
     </question>
     <question id="p03">
         <type>checkbox</type>
         <title>
-            3.- ¿Cuántas islas tiene el Archipiélago Canario?
+            3.- ¿Cuántas islas------------ tiene el Archipiélago Canario?
         </title>
         <option>a) 3</option>
         <option>b) 5</option>
@@ -33,7 +33,7 @@
     <question id="p04">
         <type>select</type>
         <title>
-            4.- ¿Cuál es la tercera ciudad más poblada de España?
+            4.- ¿Cuál es la tercera-------- ciudad más poblada de España?
         </title>
         <option>a) Zaragoza</option>
         <option>b) Sevilla</option>
